@@ -6,7 +6,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const mongodb = require('mongodb');
 
-//mongodb+srv://GigiSimas:Wz15BBTah9r3O8IE@cluster0.nd0y1mg.mongodb.net
+//mongodb+srv://admin:Wz15BBTah9r3O8IE@cluster0.nd0y1mg.mongodb.net
 //const DB_URL = "mongodb://127.0.0.1:27017";
 const DB_URL = "mongodb+srv://GigiSimas:Wz15BBTah9r3O8IE@cluster0.nd0y1mg.mongodb.net";
 const DB_NAME = "ocean-bancodados-aula3";
