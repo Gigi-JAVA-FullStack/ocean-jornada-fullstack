@@ -1,4 +1,6 @@
-# ocean-jornada-fullstack
+# ocean-jornada-fullstack - Prof. Paulo Salvatore 
+GitHub: https://github.com/paulosalvatore
+
 OCEAN JORNADA FULL STACK:
 
 [] Backend com NodeJs e Express.
